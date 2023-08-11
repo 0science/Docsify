@@ -1,29 +1,51 @@
 # 我的知识库
 
-## 简介
+## 一、全文一览
 
-> 这是我知识汇总的地方
+<center><img src="https://djm-1317856319.cos.ap-shanghai.myqcloud.com/djm-1317856319/%E6%88%91%E7%9A%84%E7%BC%96%E7%A8%8B%E4%B9%8B%E8%B7%AF.png" height=600 /></center>
 
-## 今后想法
+## 二、学习路线
 
-<center><img src="https://djm-1317856319.cos.ap-shanghai.myqcloud.com/djm-1317856319/%E6%88%91%E7%9A%84%E7%BC%96%E7%A8%8B%E4%B9%8B%E8%B7%AF.png" height=850 /></center>
+- 前端
+- 后端
+- 游戏开发
 
-## 学习总结
+## 三、计算机基础
 
-- [我的书签](我的书签.md)
+- [编程语言](docs/03_Computer-Fundamentals/Programming-Language.md)
+- [数据结构](docs/03_Computer-Fundamentals/Data-Structure.md)
+- [算法](docs/03_Computer-Fundamentals/Algorithm.md)
+- [计算机网络](docs/03_Computer-Fundamentals/Computer-Network.md)
+- [操作系统](docs/03_Computer-Fundamentals/Operating-System.md)
+- [计算机组成原理](docs/03_Computer-Fundamentals/Principles-of-Computer-Composition.md)
+- [软件工程](docs/03_Computer-Fundamentals/Software-Engineering.md)
+- [数据库](docs/03_Computer-Fundamentals/DataBase.md)
+- [设计模式](docs/03_Computer-Fundamentals/Design-Patterns.md)
+- [MarkDown](docs/03_Computer-Fundamentals/MarkDown.md)
+- [Git](docs/03_Computer-Fundamentals/Git.md)
+- [Docker](docs/03_Computer-Fundamentals/Docker.md)
 
-## 课内知识
+## 四、资源汇总
 
-- [C语言程序设计（待补充）](C语言入门.md)
-- [数据结构（待补充）](数据结构.md)
-- [软件工程（待补充）](软件工程.md)
+- [我的书签](docs/04_Resource-Summary/BookMark.md)
+- [我的书单](docs/04_Resource-Summary/BookList.md)
+- [环境搭建](docs/04_Resource-Summary/Environmental-Construction.md)
+- [学习资源](docs/04_Resource-Summary/Resources.md)
+- [在线工具](docs/04_Resource-Summary/Online-Tools.md)
+- [本地工具](docs/04_Resource-Summary/Local-Tools.md)
 
-## 课外知识
+## 五、学习总结
 
-- [MarkDown学习指南](MarkDown学习指南.md)
-- [Git教程](Git教程.md)
+- [自学经验](docs/05_Learning-Summary/Self-Study-Experience.md)
+- [考研体会](docs/05_Learning-Summary/Exam.md)
+- [项目经历](docs/05_Learning-Summary/Project-Experience.md)
+- [面试心得](docs/06_Beyond-Programming/)
 
-## 精选文章
+## 六、编程之外
 
-- [感动-我的机器人女友](Article/我的机器人女友.md)
-- [沙雕-蛋炒饭](Article/蛋炒饭.md)
+- [日常有感](docs/06_Beyond-Programming/Daily.md)
+- [精选文章](docs/06_Beyond-Programming/Article.md)
+- [游戏时光](docs/06_Beyond-Programming/Game.md)
+- [观影记录](docs/06_Beyond-Programming/Movies.md)
+- [阅读清单](docs/06_Beyond-Programming/Reading.md)
+- [音乐收藏](docs/06_Beyond-Programming/Music.md)
