@@ -13,6 +13,11 @@
 ## 三、计算机基础
 
 - [编程语言](docs/03_Computer-Fundamentals/Programming-Language.md)
+  - [C](docs/03_Computer-Fundamentals/Programming-Language/C.md)
+  - [Python](docs/03_Computer-Fundamentals/Programming-Language/Python.md)
+  - [GO](docs/03_Computer-Fundamentals/Programming-Language/Go.md)
+  - [Java](docs/03_Computer-Fundamentals/Programming-Language/Java.md)
+  - [C++](docs/03_Computer-Fundamentals/Programming-Language/Cpp.md)
 - [数据结构](docs/03_Computer-Fundamentals/Data-Structure.md)
 - [算法](docs/03_Computer-Fundamentals/Algorithm.md)
 - [计算机网络](docs/03_Computer-Fundamentals/Computer-Network.md)
