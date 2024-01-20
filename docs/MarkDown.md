@@ -1,12 +1,11 @@
-# MarkDown
+# 目录
+
+<center><img src="https://djm-1317856319.cos.ap-shanghai.myqcloud.com/djm-1317856319/202306062114922.png" height=700 /></center>
 
 # 一、前言
 
 >本人大学才开始接触编程，自认为入门较晚。伴随着知识的积累，迫切需要一个知识输出是途径，个人博客无疑是首选，写博客离不开Markdown，我的第一篇博客就由此开始。
 
-<img src="https://djm-1317856319.cos.ap-shanghai.myqcloud.com/djm-1317856319/202306062114922.png" height=750 />
-
----
 # 二、Markdown简介
 
 <center><img src="https://djm-1317856319.cos.ap-shanghai.myqcloud.com/djm-1317856319/202306062114923.jpg" height=150 /></center>
@@ -23,7 +22,6 @@
 2. **易读易写**：相比HTML，Markdown上手门槛更低，书写流畅也更易懂
 3. **兼容性强**：世界上的主流的博客平台都能很好的支持Markdown
 
----
 # 二、基础语法
 
 ## 1.标题
